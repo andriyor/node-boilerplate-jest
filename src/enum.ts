@@ -7,7 +7,7 @@ const Color = {
 
 type Color = typeof Color[keyof typeof Color]
 
-export function getColorName(c: Color): string {
+export function getColorName(c: Color) {
   switch (c) {
     case Color.Red:
       return 'Red'

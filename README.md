@@ -1,4 +1,4 @@
-# node-boilerplate
+# node-boilerplate-jest
 
 - Package manager: [pnpm](https://pnpm.io/)
 - TypeScript with [@tsconfig/recommended](https://github.com/tsconfig/bases)
